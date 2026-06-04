@@ -1,6 +1,6 @@
 name = "cf-r2-webdav"
 main = "src/index.ts"
-compatibility_date = "2023-01-01"
+compatibility_date = "2026-06-04"
 
 [vars]
 USERNAME = "$USERNAME"
